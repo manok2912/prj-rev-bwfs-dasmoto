@@ -1,0 +1,31 @@
+#head{
+  background-image: url("pattern.jpeg");
+  background-position: center;
+}
+h1{
+   font-family: Helvatica;
+   font-size: 100px;
+   font-weight: :bold;
+   text-align: center;
+   color: khaki;
+}
+.sh{
+    font-family: Helvatica;
+    font-size: 32px;
+    font-family: bold;
+    color: white;
+}
+#b{
+  background-color: mediumspringgreen;
+}
+#f{
+  background-color: lightcoral;
+}
+#p{
+  background-color: skyblue;
+}
+span{
+  font-family: Helvatica;
+  font-weight: bold;
+  color:blue;
+}
